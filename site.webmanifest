@@ -1,0 +1,12 @@
+{
+  "name": "Valledupar de América",
+  "short_name": "Valledupar",
+  "description": "Conjunto vallenato en Huamanga, Ayacucho.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#14100B",
+  "theme_color": "#14100B",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

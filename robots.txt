@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /gracias.html
+
+Sitemap: https://tudominio.github.io/valledupar-de-america/sitemap.xml
